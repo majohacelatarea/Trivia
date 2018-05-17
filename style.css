@@ -1,0 +1,21 @@
+
+body {
+background: yellow;
+}
+
+h1 {
+text-align: center;
+font-size: 30px;
+font-style: normal;
+color: black;
+}
+
+.image {
+image-orientation: center;
+margin-left: 380px;
+}
+
+p {
+font-size: 30px;
+text-align: center;
+}
